@@ -16,7 +16,7 @@ A collection of web tools.
 
 (Current list may vary depending on updates. Visit the live site for the full set.)
 
-- Color utilities (color picker, HEX ↔ RGB converter)
+- Colors picker
 - Text-shadow
 - Calculator
 - Border + border-radius
