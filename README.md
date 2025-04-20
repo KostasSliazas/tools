@@ -1,7 +1,7 @@
 
 # Tools
 
-A collection tools.
+A collection of web tools.
 
 **Live demo:** [https://kostassliazas.github.io/tools/](https://kostassliazas.github.io/tools/)
 
